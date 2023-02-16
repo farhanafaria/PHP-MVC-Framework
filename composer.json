@@ -1,0 +1,14 @@
+{
+    "name": "personal/php-mvc-framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "farhanafaria"
+        }
+    ],
+    "require": {}
+}
